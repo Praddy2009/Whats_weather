@@ -1,0 +1,41 @@
+body {
+    background: url('christophe-ZGQsHzU5Sls-unsplash.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+  }
+
+  .container{ text-align: center;
+    
+    height: 100%;
+}
+
+.font_style{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.absolute{
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 25vh;
+    
+}
+
+input{
+    margin-top: 30px;
+}
+
+.form-group{
+    
+    margin-left: auto;
+    margin-right: auto;
+}
+#tets{
+    margin-top: 10px;
+
+}
+footer #linking{
+    text-decoration: none;
+    color: white;
+}
